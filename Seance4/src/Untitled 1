@@ -1,0 +1,17 @@
+<<invariant>>
+
+ taille () == 0 <=> estVide ()
+ !estVide() => contient(min()); 
+ !estVide() ==> 
+ 	C\ for all int x; contient (x) ; x >= min(); 
+ 	
+ ajouter(e) 
+ 
+ 	<<pres>> e != null    !contient(e)     <<post>>  contient(x)
+ 	
+ supprimer(e)
+	<<pres>>  contient(e)
+	
+	
+Spécifier les opérations et non les attributs 
+ 	

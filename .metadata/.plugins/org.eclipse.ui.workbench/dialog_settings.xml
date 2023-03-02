@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\diagh\Downloads\projet (1).zip"/>
+			<item value="C:\Users\diagh\Downloads\TP17junit-20230201T144858Z-001.zip"/>
+			<item value="C:\Users\diagh\Downloads\TP17fabrique.jar"/>
+			<item value="C:\Users\diagh\Downloads\TU03.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP13.jar"/>
+			<item value="C:\Users\diagh\Downloads\TU02solution-20230105T134029Z-001.zip"/>
+			<item value="C:\Users\diagh\Downloads\TP11.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP11tradi-packages.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP11tradi.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP10.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP07.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP06.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP05.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP03.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP02-packages.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP01.jar"/>
+			<item value="C:\Users\diagh\Downloads\TP01-packages.jar"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>

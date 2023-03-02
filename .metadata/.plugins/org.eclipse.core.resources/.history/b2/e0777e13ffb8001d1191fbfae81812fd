@@ -1,0 +1,16 @@
+package projet;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Configuration c1 = new Configuration();
+		Configuration c2 = new Configuration();
+		
+		if (c1.equals(c2)) {
+			System.out.println("Vrai !"); 
+		}else {
+			System.out.println("Faux !");
+		}
+	}
+
+}
